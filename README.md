@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @genelorenzSarmiento0408
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning React.js wsl
+- 👀 I’m interested in React, Game Development
+- 🌱 I’m currently learning APIs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
