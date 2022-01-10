@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @genelorenzSarmiento0408
-- 👀 I’m interested in React, Game Development
+- 👀 I’m interested in Web and Game Development
 - 🌱 I’m currently learning APIs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me contact me via Twitter https://twitter.com/SarmientGene
 
 <!---
 genelorenzSarmiento0408/genelorenzSarmiento0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
