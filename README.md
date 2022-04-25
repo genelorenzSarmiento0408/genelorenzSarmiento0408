@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @genelorenzSarmiento0408
-- 👀 I’m interested in Web and Game Development
-- 🌱 I’m currently learning Front-end development (Arrays especially) 
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: contact me via Twitter https://twitter.com/SarmientGene
 
