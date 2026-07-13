@@ -1,21 +1,25 @@
 # Gene Lorenz Sarmiento - Full-Stack Web Developer
 
-![Profile Banner](https://banner.example.com)
+<!-- ![Profile Banner](https://banner.example.com) -->
 
-Hey there! I'm Gene Lorenz Sarmiento, a passionate 17-year-old web developer based in the Philippines. Currently a Grade 12 student, I'm on a journey to expand my skills and make an impact in the tech world. With a focus on full-stack development, I actively contribute to various projects and repositories on GitHub. Let's dive into my coding journey!
+Hey there! I'm Gene Lorenz Sarmiento, a passionate 17-year-old web developer based in the Philippines. Currently a 1st year BSCS Student at Cavite State University - Imus Campus, I'm on a journey to expand my skills and make an impact in the tech world. With a focus on full-stack development, I actively contribute to various projects and repositories on GitHub. Let's dive into my coding journey!
 
 ## 🚀 Skills & Interests
 - **Languages:** JavaScript, Python, TypeScript, CSS
-- **Technologies:** HTML, React, Node.js, Sass
+- **Technologies:** HTML, React, Node.js, TailwindCSS, Next.JS
 - **Interests:** Web Development, Front-End & Back-End Technologies
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=genelorenzSarmiento0408&layout=compact)](https://github.com/genelorenzSarmiento0408)
 
-## 🌟 GitHub Overview
+## 🚀 GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=genelorenzSarmiento0408&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Gene%20Lorenz%27+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/genelorenzSarmiento0408)
+
+<!-- ## 🌟 GitHub Overview
 - **Repositories:** 45
 - **Total Commits:** 53
 - **Followers:** 29
-- **Contributions:** 68
+- **Contributions:** 68 -->
 
 ## 📂 Projects and Project Contributions
 I am actively involved in a diverse range of projects on GitHub, including:
@@ -28,9 +32,6 @@ I am actively involved in a diverse range of projects on GitHub, including:
 - LinkedIn: [Gene Lorenz Sarmiento](https://www.linkedin.com/genelorenzsarmiento)
 - Email: [genelorenz@email.com]
 - Portfolio: [glsarmiento.vercel.app](https://glsarmiento.vercel.app)
-
-## 🚀 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=genelorenzSarmiento0408)](https://github.com/genelorenzSarmiento0408)
 
 ## 🌟 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=genelorenzSarmiento0408)](https://git.io/streak-stats) 
