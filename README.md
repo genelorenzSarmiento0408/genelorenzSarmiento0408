@@ -27,7 +27,7 @@ I am actively involved in a diverse range of projects on GitHub, including:
 ## 📫 Let's Connect!
 - LinkedIn: [Gene Lorenz Sarmiento](https://www.linkedin.com/genelorenzsarmiento)
 - Email: [genelorenz@email.com]
-- Portfolio: [ssaige.app](https://www.ssaige.app)
+- Portfolio: [glsarmiento.vercel.app](https://glsarmiento.vercel.app)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=genelorenzSarmiento0408)](https://github.com/genelorenzSarmiento0408)
 
