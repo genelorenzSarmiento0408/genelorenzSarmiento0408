@@ -9,7 +9,7 @@ Hey there! I'm Gene Lorenz Sarmiento, a passionate 17-year-old web developer bas
 - **Technologies:** HTML, React, Node.js, Sass
 - **Interests:** Web Development, Front-End & Back-End Technologies
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genelorenzSarmiento0408&layout=compact)](https://github.com/genelorenzSarmiento0408)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=genelorenzSarmiento0408&layout=compact)](https://github.com/genelorenzSarmiento0408)
 
 ## 🌟 GitHub Overview
 - **Repositories:** 45
@@ -29,10 +29,8 @@ I am actively involved in a diverse range of projects on GitHub, including:
 - Email: [genelorenz@email.com]
 - Portfolio: [glsarmiento.vercel.app](https://glsarmiento.vercel.app)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=genelorenzSarmiento0408)](https://github.com/genelorenzSarmiento0408)
-
 ## 🚀 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genelorenzSarmiento0408)](https://github.com/genelorenzSarmiento0408)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=genelorenzSarmiento0408)](https://github.com/genelorenzSarmiento0408)
 
 ## 🌟 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=genelorenzSarmiento0408)](https://git.io/streak-stats) 
